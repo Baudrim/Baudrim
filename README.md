@@ -1,4 +1,4 @@
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4bxkyet004509mnpcbpdsub/stats?cursusId=21&coalitionId=45" alt="tallal--'s 42 stats" /></a>
+<a align="center" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4bxkyet004509mnpcbpdsub/stats?cursusId=21&coalitionId=45" alt="tallal--'s 42 stats" /></a>
 
 <!--
 **Baudrim/Baudrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
