@@ -1,5 +1,13 @@
 <p align="center"><a href="https://baudrim.fr"><img src="https://badge42.vercel.app/api/v2/cl4bxkyet004509mnpcbpdsub/stats?cursusId=21&coalitionId=45" alt="tallal--'s 42 stats" /></a></p>
 
+<p style="text-align:center">
+	<div style='position:relative; left:33%; text-align:center; width:33vw; border:solid white 0.5px; border-radius:10px; background-image:url("https://42l.fr/assets/png/ban.png"); background-size:cover;'>
+		<h1 style='color:white'>Libft</h1>
+		<a href="https://github.com/JaeSeoKim/badge42">
+			<img style='width:80%; border-radius:10px; padding:5px;' src="https://badge42.vercel.app/api/v2/cl4bxkyet004509mnpcbpdsub/project/2035323" alt="tallal--'s 42 Libft Score" />
+		</a>
+	</div>
+</p>
 <!--
 **Baudrim/Baudrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
